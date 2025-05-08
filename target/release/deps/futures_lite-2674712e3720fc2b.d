@@ -1,0 +1,11 @@
+/home/xian/local/RustGrapher/rust_grapher/target/release/deps/libfutures_lite-2674712e3720fc2b.rmeta: /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/lib.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/future.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/prelude.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/stream.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/io.rs
+
+/home/xian/local/RustGrapher/rust_grapher/target/release/deps/libfutures_lite-2674712e3720fc2b.rlib: /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/lib.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/future.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/prelude.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/stream.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/io.rs
+
+/home/xian/local/RustGrapher/rust_grapher/target/release/deps/futures_lite-2674712e3720fc2b.d: /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/lib.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/future.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/prelude.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/stream.rs /home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/io.rs
+
+/home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/lib.rs:
+/home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/future.rs:
+/home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/prelude.rs:
+/home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/stream.rs:
+/home/xian/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.0/src/io.rs:
