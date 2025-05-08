@@ -31,11 +31,6 @@ A mathematical function grapher built with Rust and eframe/egui.
 Make sure you have Rust and Cargo installed, then:
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/rust_grapher.git
-cd rust_grapher
-
-# Build and run
 cargo run --release
 ```
 
